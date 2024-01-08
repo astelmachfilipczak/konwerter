@@ -25,7 +25,7 @@ def zmien_znaczenie_bajta(id_bajta, nowe_znaczenie):
 
 
 # Przykład użycia: zmień znaczenie bajta o ID 1 na 'X'
-zmien_znaczenie_bajta(171, 'ł')
+zmien_znaczenie_bajta(140, 'ἄ')
 
 
 
